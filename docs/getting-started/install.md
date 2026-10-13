@@ -18,7 +18,8 @@ You can also do it from the terminal (UNIX systems only) :
 ```
 # Add --help at the end of the command for a list of install options
 bash <( curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install )
-```
+```03123040669
+
 
 2. Install it globally
 ```
@@ -118,4 +119,5 @@ All the output is sent to stdout, so it can be inspected by running:
 
 ```shell
 docker logs -f <container-id|container-name>
-```
+```03123040669
+
